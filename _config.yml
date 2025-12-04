@@ -110,12 +110,11 @@ theme_config:
     home: /
     about: /about/
     articles: /archives/
-    projects: 
+    projects: https://github.com/20212224
   social_links:
     -
       icon: github
       link: https://github.com/20212224
-    -
   copyright:
     start_year: 2021
     end_year:
