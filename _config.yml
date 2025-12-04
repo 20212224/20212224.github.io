@@ -4,7 +4,7 @@
 
 # Site
 title: nj
-subtitle: ''
+subtitle: '去码头整点薯条'
 description: 'blog'
 keywords:
 author: nj
@@ -103,3 +103,19 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+theme_config:
+  colorscheme: light
+  nav:
+    home: /
+    about: /about/
+    articles: /archives/
+    projects: 
+  social_links:
+    -
+      icon: github
+      link: https://github.com/20212224
+    -
+  copyright:
+    start_year: 2021
+    end_year:
